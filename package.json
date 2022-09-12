@@ -1,0 +1,33 @@
+{
+  "name": "af-web-dev-essentials",
+  "displayName": "Web Dev Essentials",
+  "description": "A personal collection of useful extensions for web development and more.",
+  "publisher": "ariqfraser",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "icon": "icon.png",
+  "homepage": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials.git"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ryuta46.multi-command",
+    "esbenp.prettier-vscode",
+    "antfu.vite",
+    "angular.ng-template",
+    "dsznajder.es7-react-js-snippets",
+    "tyriar.lorem-ipsum",
+    "monokai.theme-monokai-pro-vscode",
+    "asvetliakov.vscode-neovim"
+  ]
+}
