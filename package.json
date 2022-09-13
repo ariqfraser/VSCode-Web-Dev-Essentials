@@ -3,7 +3,7 @@
   "displayName": "Web Dev Essentials",
   "description": "A personal collection of useful extensions for web development and more.",
   "publisher": "ariqfraser",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.71.0"
   },
