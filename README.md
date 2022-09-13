@@ -1,8 +1,9 @@
-<h2 align="center"><img src="icon.png" height="128"/><br>Web Dev Essentials</h2>
+<h3 align="center"><img src="icon.png" height="128"/><br>Web Dev Essentials</h3>
+<hr>
 <h3 align="center"><i>A collection of super useful extensions for web development.</i></h3>
 <hr>
 
-## Extensions in this pack:
+<strong> Extensions in this pack:</strong>
 
 - Auto Import - Automatically finds, parses and provides code actions and code completion for all available imports.
 - Auto Rename Tag - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
@@ -16,21 +17,18 @@
 
 <hr>
 
-## Honorable Mentions
+<strong>Not included in this pack but still worth mentioning:</strong>
 
-#### Angular Devlopment
+- **Angular Devlopment**
+  - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - If you're developing using Angular this is absolutely essential!
 
-- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - If you're developing using Angular this is absolutely essential!
+- **React Development**
+  - [React ES7+ Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - React/Redux/React-Native snippets.
+  - [Styled Components Snippet](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets) - Snippets for Styled-Components.
+  - [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) - Styled-Components intelliSense and syntax highlighting.
 
-#### React Development
-
-- [React ES7+ Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - React/Redux/React-Native snippets.
-- [Styled Components Snippet](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets) - Snippets for Styled-Components.
-- [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) - Styled-Components intelliSense and syntax highlighting.
-
-#### VSCode Environment
-
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Allows you to collaboratively edit with others in real time.
-- [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) - Allows you to integrate Neovim with VSCode 👄
+- **VSCode Environment**
+  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Allows you to collaboratively edit with others in real time.
+  - [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) - Allows you to integrate Neovim with VSCode 👄
 
 **Happy coding!**
