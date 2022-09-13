@@ -3,9 +3,9 @@
   "displayName": "Web Dev Essentials",
   "description": "A personal collection of useful extensions for web development and more.",
   "publisher": "ariqfraser",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.70.0"
   },
   "icon": "icon.png",
   "homepage": "https://github.com/ariqfraser/VSCode-Web-Dev-Essentials",

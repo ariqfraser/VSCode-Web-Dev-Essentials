@@ -11,7 +11,7 @@
 - ESLint - Integrates ESLint into VS Code.
 - multi-command - This extension can create command sequence as one command and bind a key, or call it manually.
 - Output Colorizer - Adds syntax colorization for both the output/debug/extensions panel and \*.log files.
-- Prettier - IMO the best code formatter.
+- Prettier - IMO the best customisable code formatter.
 - Monokai Pro - A sexy yet professional theme pack.
 
 <hr>
@@ -26,7 +26,7 @@
 
 - [React ES7+ Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - React/Redux/React-Native snippets.
 - [Styled Components Snippet](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets) - Snippets for Styled-Components.
-- [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) - Styled-Components intelliSense and syntax hhighlighting.
+- [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) - Styled-Components intelliSense and syntax highlighting.
 
 #### VSCode Environment
 
