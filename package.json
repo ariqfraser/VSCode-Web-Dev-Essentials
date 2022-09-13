@@ -3,7 +3,7 @@
   "displayName": "Web Dev Essentials",
   "description": "A personal collection of useful extensions for web development and more.",
   "publisher": "ariqfraser",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -23,10 +23,8 @@
     "eamodio.gitlens",
     "ryuta46.multi-command",
     "esbenp.prettier-vscode",
-    "angular.ng-template",
-    "dsznajder.es7-react-js-snippets",
-    "tyriar.lorem-ipsum",
-    "monokai.theme-monokai-pro-vscode",
-    "asvetliakov.vscode-neovim"
+    "aaron-bond.better-comments",
+    "ibm.output-colorizer",
+    "monokai.theme-monokai-pro-vscode"
   ]
 }
